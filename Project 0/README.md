@@ -1,8 +1,30 @@
-# My Data Science Projects
+# Проект 0. Угадай число
 
-From the [Skillfactory course](https://skillfactory.ru/data-scientist).
+## Оглавление:
+[1. Описание проекта](https://github.com/Nastasya963/Python/tree/a9da290d49ae4472585636fc5734c78f683c71b3/Project%200/README.md#Описание-проекта)
+[2. Какой кейс решаем?](https://github.com/Nastasya963/Python/tree/a9da290d49ae4472585636fc5734c78f683c71b3/Project%200/README.md#Какой-кейс-решаем?)
+[3. Краткая инфорамция о данных](https://github.com/Nastasya963/Python/tree/a9da290d49ae4472585636fc5734c78f683c71b3/Project%200/README.md#Краткая-инфорамция-о-данных)
+[4. Этапы работы над проектом](https://github.com/Nastasya963/Python/tree/a9da290d49ae4472585636fc5734c78f683c71b3/Project%200/README.md#Этапы-работы-над-проектом)
+[5. Результаты](https://github.com/Nastasya963/Python/tree/a9da290d49ae4472585636fc5734c78f683c71b3/Project%200/README.md#Результаты)
+[6. Выводы](https://github.com/Nastasya963/Python/tree/a9da290d49ae4472585636fc5734c78f683c71b3/Project%200/README.md#Выводы)
 
-## Проекты:
-* [Проект 0. Игра: Угадай число](https://github.com/Nastasya963/Python/tree/a9da290d49ae4472585636fc5734c78f683c71b3/Project%200)
-* [Проект 1. ____]()
-* [Проект 2. ____]()
+### Описание проекта
+Угадать загаданное компьютером число за минимальное число попыток.
+
+:arrow_up:[к оглавлению](https://github.com/Nastasya963/Python/tree/a9da290d49ae4472585636fc5734c78f683c71b3/Project%200/README.md#Оглавление)
+
+### Какой кейс решаем?
+**Условия соревнования:**
+- Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под "угадать" подразумевается "написать программу, которая угадывает число"
+- Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
+
+**Метрика качества**
+Результаты оцениваются оп среднему количеству попыток при 1000 повторений
+
+**Что практикуем**
+Учимся писать хороший код на python
+
+### Краткая информация о данных
+..........
+
+:arrow_up: [к оглавлению](https://github.com/Nastasya963/Python/tree/a9da290d49ae4472585636fc5734c78f683c71b3/Project%200/README.md#Оглавление)
